@@ -5,7 +5,7 @@ pipeline {
       steps {
         echo 'pulling...';
          git branch:'rihem',
-         url : 'https://github.com/rihem7350/Devops-Achat';
+         url : 'https://github.com/rihem7350/Devops-achattp.git';
          
          }
         }
