@@ -4,8 +4,8 @@ pipeline {
     stage('Git Checkout') {
       steps {
         echo 'pulling...';
-         git branch:'main',
-         url : 'https://github.com/saifhendili/devOps_Tpachat';
+         git branch:'eya',
+         url : 'https://github.com/rihem7350/Devops-achattp.git';
          
          }
         }
